@@ -1,0 +1,33 @@
+Your score: 11/17
+
+Breakdown & Comments: 
+
+-1 uncommented code
+
+----------------------------------------
+Problem 1: 4/5
+----------------------------------------
+1/1: plot with caption
+3/4: analysis
+
+What could it have improved? What would be your
+biggest fear in using this figure in a talk, for
+example?
+
+----------------------------------------
+Problem 2: 3/7
+----------------------------------------
+3/3: Recreated plot
+0/3: New dynamic interactions
+0/1: Analysis of changes
+
+You could have said in words where interactive 
+widgets would help, even if you didn't implement them
+
+----------------------------------------
+Problem 3: 5/5
+----------------------------------------
+5/5: Reproduced plot: title, twin_x, legend, limits, linestyles
+
+
+Graded by C. E. Harris
