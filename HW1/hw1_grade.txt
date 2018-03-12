@@ -1,0 +1,79 @@
+Your score: 13/24
+
+Breakdown & Comments: 
+
+----------------------------------------
+Coding Style: 2/4
+----------------------------------------
+1/1: git repo style
+0/1: code style
+0/1: notebook style
+1/1: code portability
+
+code --
+
+Work on making variable names more clear; e.g. in compress_signal()
+the variable name "c" is just...it's just bad. Single-letter variables
+are ok for indeces in for-loops, and that's about all. 
+
+don't import modules all the time (i.e. in each step of your for-loop
+in problem 4 part 3!!
+
+Please work on commenting your code so that we can understand the logic
+of your solutions.
+
+notebook style -- 
+Delete "testing" cells (e.g. cells that print an array so you can view
+it when coding) and print statements (e.g. "staring X... done with X")
+before pushing your notebooks to save us some scrolling :)
+
+Always label plot axes (and title colorbars; even if it
+means editing code that was given to you by the prof).
+
+
+----------------------------------------
+Problem 1: 4/6 
+----------------------------------------
+3/3: good attempt of each part
+1/3: successful execution of each part
+
+part 1 should have found sub-pixel offsets (assume offset is sub-pixel;
+look at power in pixels adjacent to the discovered max);
+would give a clearer image
+
+No output for part 3? (Including stating what the plate read)
+
+----------------------------------------
+Problem 2: 3/7
+----------------------------------------
+1/2: good attempt of parts 2 and 5
+2/5: successful completion of parts 1-5
+
+part 2 - you were using rfft so there are no imaginary parts...
+
+part 2 - technical/mathematical note:
+power spectrum (for finding the "smallest component") is [prop to] c**2
+
+part 3 - your function isn't returning what it's supposed to.
+
+missing parts 4 & 5
+
+
+----------------------------------------
+Problem 3: 0/2 
+----------------------------------------
+0/2: successful completion of year/lunar estimates
+
+see solutions!
+
+----------------------------------------
+Problem 4: 4/5 
+----------------------------------------
+0/1: understanding what is going on in the plot for part 1
+1/1: good attempt of part 1
+3/3: successful completion of parts 1-3
+
+seems like you misunderstood what a point lead is, hence your confusing
+result in part 3 -- basically, you should have done 0.5 + lead/2; you 
+
+Graded by C. E. Harris
