@@ -1,0 +1,51 @@
+﻿Airport,Code,City,State,Latitude,Longitude,Rank (as of 2016)
+Hartsfield_Jackson_Atlanta_International,ATL,Atlanta ,GA,33.64,-84.42,1
+Los_Angeles_International,LAX,Los Angeles,CA,33.943,-118.41,2
+Chicago_O_Hare_International,ORD,Chicago,IL,41.974,-87.907,3
+Dallas/Fort_Worth_International,DFW,Dallas/Fort Worth,TX,32.897,-97.04,4
+John_F_Kennedy_International,JFK,New York,NY,40.641,-73.778,5
+Denver_International,DEN,Denver,CO,39.856,-104.674,6
+San_Francisco_International,SFO,San Francisco,CA,37.621,-122.379,7
+McCarran_International,LAS,Las Vegas,NV,36.084,-115.154,8
+Seattle/Tacoma_International,SEA,Seattle,WA,47.45,-122.309,9
+Charlotte Douglas_International,CLT,Charlotte,NC,35.214,-80.947,10
+Phoenix_Sky_Harbor_International,PHX,Pheonix,AZ,33.437,-112.008,11
+Miami_International,MIA,Miami,FL,25.796,-80.287,12
+Orlando_International,MCO,Orlando,FL,28.431,-81.308,13
+George_Bush_Intercontinental/Houston,IAH,Houston,TX,29.99,-95.337,14
+Newark_Liberty_International,EWR,Newark,NJ,40.69,-74.175,15
+Minneapolis_St_Paul_International,MSP,Minneapolis,MN,44.885,-93.222,16
+Logan_International,BOS,Boston,MA,42.366,-71.01,17
+Detroit_Metro_Wayne_County,DTW,Detroit,MI,42.216,-83.355,18
+LaGuardia,LGA,New York,NY,40.777,-73.874,19
+Philadelphia_International,PHL,Philadelphia,PA,39.874,-75.242,20
+Fort_Lauderdale-Hollywood_International,FLL,Fort Lauderdale,FL,26.074,-80.151,21
+Baltimore/Washington_International_Thurgood_Marshall,BWI,Baltimore,MD,39.177,-76.668,22
+Ronald_Reagan_Washington_National,DCA,Washington,DC,38.851,-77.04,23
+Chicago_Midway_International,MDW,Chicago,IL,41.787,-87.752,24
+Salt_Lake_City_International,SLC,Salt Lake City,UT,40.79,-111.979,25
+Washington_Dulles_International,IAD,Washington,DC,38.953,-77.457,26
+San_Diego_International,SAN,San Diego,CA,32.734,-117.193,27
+Honolulu_International,HNL,Honolulu,HI,21.325,-157.925,28
+Tampa_International,TPA,Tampa,FL,27.984,-82.537,29
+Portland_International,PDX,Portland,OR,45.59,-122.595,30
+Dallas_Love_Field,DAL,Dallas,TX,32.848,-96.851,31
+Lambert_St_Louis_International,STL,St. Louis,MO,38.75,-90.376,32
+Nashville_International,BNA,Nashville,TN,36.126,-86.677,33
+William_P_Hobby,HOU,Houston,TX,29.646,-95.277,34
+Austin_Bergstrom_International,AUS,Austin,TX,30.194,-97.671,35
+Metropolitan_Oakland_International,OAK,Oakland,CA,37.713,-122.22,36
+Louis_Armstrong_New_Orleans_International,MSY,New Orleans,LA,29.992,-90.259,37
+Kansas_City_International,MCI,Kansas City,MO,39.299,-94.711,38
+Raleigh_Durham_International,RDU,Raliegh/Durham,NC,35.88,-78.788,39
+Norman_Y_Mineta_San_Jose_International,SJC,San Jose,CA,37.364,-121.929,40
+John_Wayne_Airport-Orange_County,SNA,Santa Ana,CA,33.676,-117.868,41
+Sacramento_International,SMF,Sacremetno,CA,38.695,-121.59,42
+Luis_Munoz_Marin_International,SJU,San Juan,PR,18.437,-66.002,43
+Indianapolis_International,IND,Indianapolis,IN,39.717,-86.296,44
+San_Antonio_International,SAT,San Antonio,TX,29.424,-98.494,45
+Southwest_Florida_International,RSW,For Myers,FL,26.534,-81.755,46
+Cleveland_Hopkins_International,CLE,Cleveland,OH,41.406,-81.854,47
+Pittsburgh_International,PIT,Pittsburgh,PA,40.496,-80.241,48
+Port_Columbus_International,CMH,Columbus,OH,40,-82.887,49
+General_Mitchell_International,MKE,Milwuakee,WI,42.948,-87.897,50
