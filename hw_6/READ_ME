@@ -3,7 +3,9 @@ The "50 Categories Feature Extraction" file is the original work flow for creati
 of the 50_categories folder. The results from this are saved as the "category_vals" CSV and is called later to train the
 random forest model. On my machine it took about 30 mins to run the full feature extraction on the 50_categories folder.
 The "RandomForestRunner" massages the CSV data into a useable format for machine learning via sklearn. It then trains
-a randomforest and tests it on a subset of the 50_categories images. My algorithm is correct about 30% of the time.
+a randomforest and tests it on a subset of the 50_categories images. My algorithm is correct about 30% of the time. This evaluation
+is done in the final cell of this notebook, run the notebook to confirm if wanted - will call the category_vals CSV that is supplied so no need
+to run the full feature extraction. 
 The "Feature Extractor" is just the extraction function alone (was used for debugging and is not called in any function).
 The "RUN ME" file should be used for grading and evaluation. It contains both portions of the the algorithm - feature extraction
 and random forest setup and runner. This file calls the feature extraction on a new tester folder of unknown categories and saves
