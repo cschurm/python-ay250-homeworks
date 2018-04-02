@@ -6,8 +6,8 @@
 
 import smtplib #initialize email
 # sign into gmail
-gmail_user = 'cschurman125@gmail.com' #sorry, to grade this you're gonna have to use your own!  
-gmail_password = 'marimbaluver'
+gmail_user = '' #sorry, to grade this you're gonna have to use your own!  
+gmail_password = ''
 # open smtp server
 try:  
     server = smtplib.SMTP('smtp.gmail.com', 587)
@@ -26,7 +26,7 @@ except:
 
 #construct email text
 sent_from = gmail_user  
-to = ['cschurman125@gmail.com']   
+to = ['']   
 
 subject = words[words.index("subject")+1] #extracts the subject line, this method only works on single words following "subject
 body = words[words.index("body")+1] #extracts the body word, this method only works on single words following "body"
