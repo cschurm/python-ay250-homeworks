@@ -1,0 +1,5 @@
+Each problem 1 and Problem 2 are in separate notebooks. 
+Just run the single cell in each to run.
+Problem 2 calls the Problem2.py file that will execute the stitching algorithm.
+Problem2.py can be viewed in the Problem 2 notebook or individually.
+Results from stitching are saved as a .png file in the HW7 directory.
