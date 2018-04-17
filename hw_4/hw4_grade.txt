@@ -1,0 +1,12 @@
+Your score: 9/10
+
+Breakdown & Comments: 
+
+2/2: Implemented serial
+3/3: Implemented multiprocessing
+3/3: Implemented ipyparallel
+1/2: Analysis/summary
+
+missing written summary/interpretation of plot
+
+Graded by C. E. Harris
