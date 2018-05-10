@@ -1,0 +1,22 @@
+The Final Project note book contains the code to prepare histologic slides of bone samples for area calculations
+of the Lacunar/canalicular Network (LCN) The LCN consists of osteocyte cell bodies and their dendrites. We are interested
+in the overal area of the LCN, the cell body area alone, and the dendrite area alone as amrkers of bone health.
+Since these images are prepared from chemically treated sections and manually imaged on a bright field microscope the, the image quality
+of individual images is very non-uniform. This presents a difficult image segementation problem as the process must be 
+actively currated. Additionally, many features in the bone sections are small or present as other features, i.e. tears or rips in bone
+can look like cell bodies to some computer programs, but they cannot be counted as such in analysis. 
+The supplied code is a supervised workflow for background normalization towards a uniform greyscale image that can then be used
+for further quantification. 
+I have attempted to put together a quantification workflow that works similarly to the background normalization steps.
+As a whole, the process relies on the use of jupyter widgets to actively interact with images during image processing, adjusting 
+exposure values, setting thresholds, and selecting features with preset scales.
+In order to save the values from the sliding scales
+                                    you must manually reenter their values 
+at the tops of the cells where they are called.
+This relaunches the cell and completes the processing step with the desired values/thresholds.
+At the end, elliptical patches representing indetified cell bodies are overlayed ontop of a clean, highly detailed, binary image of 
+the LCN. This either fills in cell bodies for calculation of the total/compelte LCN are, or whites out the cell body leaving behind
+only the features representing the canalicular dendrites. From these images, representitave areas of the features are calculated and 
+placed into a pandas data frame for exportation.
+
+topics covered - matplotlib and interactive figures, scikit image, pandas, numpy, and scipy
